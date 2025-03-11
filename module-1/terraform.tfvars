@@ -1,0 +1,7 @@
+region_name       = "asia-south2"
+project_name      = "plucky-catfish-453406-h4"
+instance_name     = "de-zc"
+machine_type      = "e2-medium"
+network_interface = "default"
+ssh_key           = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDHMJO0REN8RB99v0Z45Kl+rvfY9I6Ap5qrxNyzMg6tr8S07INF5t+HK3FGChZRIP2X4Fo8s8+wcNB2GxVgOZU9v6Av1MwRjt6no0aQRSByhM4PhW2xk3N2B4cX3niB/TRf+a58ZXplBCSeC+vQIMeUUXHTjaIIJn6hw9LPJwV4P3uDOKG7WiTuAUq/LgZPg0xvQ9OTxVzkzfDgWGHDEmDKVwraxr+Jbwnsm1w9WTrKX/to6waBPFqAq3wf4wJhKQ/vwCrEvVNlorcd5eRGJvxh367Ks+txFRiUkQvZCwyXWahF/a0O8LllxV9kVmApsowobrmrAJp0kTQroe9j5sfryF5mGaQtTjP+Q578xm91/YkLbKmD4vnAHc4zqyuhqy+4cwYZlqi1OGe4SN901dvjd8PA5tc0kcyZHwFYRAPcEuAugq60/EMf5YYd/AkJ7VRTyLUCNxVBqQWkh1WAhry1V7tWPArD4uuYsijcosmegRok5JgokNoEjFG6JiaClGs= vinamrgrover@Vinamrs-MacBook-Air.local"
+ssh_user          = "vinamrgrover"
